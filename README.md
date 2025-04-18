@@ -58,7 +58,15 @@ I regularly write tutorials, guides, and test automation tips at 👉 [https://a
 
 ---
 
-# 🚀 Automation & Manual Testing 
+<p align="center">
+  <img src="https://your-image-url.com/logo.png" alt="Automation Project Logo" width="200"/>
+</p>
+
+# 🚀 Automation Manual Testing
+
+A project for managing and executing manual and automated testing processes.
+
+---
 
 ## 📦 Project Status
 
@@ -66,11 +74,23 @@ I regularly write tutorials, guides, and test automation tips at 👉 [https://a
 ![Last Commit](https://img.shields.io/github/last-commit/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 ![GitHub Release](https://img.shields.io/github/v/release/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 
+---
+
+## 🖥️ UI Preview
+
+| Test Flow | Dashboard |
+|-----------|-----------|
+| ![Test Flow](https://your-image-url.com/testflow.gif) | ![Dashboard](https://your-image-url.com/dashboard.png) |
+
+---
+
 ## 👥 Community
 
 ![Contributors](https://img.shields.io/github/contributors/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 ![Issues](https://img.shields.io/github/issues/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+
+---
 
 ## 📊 Repository Insights
 
@@ -78,9 +98,18 @@ I regularly write tutorials, guides, and test automation tips at 👉 [https://a
 ![Forks](https://img.shields.io/github/forks/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 ![Watchers](https://img.shields.io/github/watchers/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 
+---
+
 ## 📄 License
 
 ![License](https://img.shields.io/github/license/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+
+---
+
+## ▶️ Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 ## 🌐 Connect with Me
 
