@@ -57,21 +57,30 @@ Hey there! I'm **Rajedra patil**, I have 2+year expierance **Manual Testing| Aut
 I regularly write tutorials, guides, and test automation tips at 👉 [https://automation-manualtesting-rp.github.io/](https://automation-manualtesting-rp.github.io/)
 
 ---
-# Automation Manual Testing
+
+# 🚀 Automation & Manual Testing 
+
+## 📦 Project Status
 
 ![Build Status](https://github.com/Automation-ManualTesting-rp/Automation-ManualTesting-rp/actions/workflows/ci.yml/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/Automation-ManualTesting-rp/Automation-ManualTesting-rp/badge.svg)](https://coveralls.io/github/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub License](https://img.shields.io/github/license/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub contributors](https://img.shields.io/github/contributors/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub last commit](https://img.shields.io/github/last-commit/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub issues](https://img.shields.io/github/issues/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub stars](https://img.shields.io/github/stars/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub forks](https://img.shields.io/github/forks/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
-![GitHub watchers](https://img.shields.io/github/watchers/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+![Last Commit](https://img.shields.io/github/last-commit/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+![GitHub Release](https://img.shields.io/github/v/release/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 
+## 👥 Community
 
+![Contributors](https://img.shields.io/github/contributors/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+![Issues](https://img.shields.io/github/issues/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+![Pull Requests](https://img.shields.io/github/issues-pr/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+
+## 📊 Repository Insights
+
+![Stars](https://img.shields.io/github/stars/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+![Forks](https://img.shields.io/github/forks/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+![Watchers](https://img.shields.io/github/watchers/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
+
+## 📄 License
+
+![License](https://img.shields.io/github/license/Automation-ManualTesting-rp/Automation-ManualTesting-rp)
 
 ## 🌐 Connect with Me
 
