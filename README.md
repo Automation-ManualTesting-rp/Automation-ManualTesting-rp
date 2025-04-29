@@ -122,7 +122,7 @@ A project for managing and executing manual and automated testing processes.
 
 ## 📫 Contact Me
 - 📧 Email: **contact@thetestingacademy.com**
-- 🌐 Website: [https://automation-manualtesting-rp.github.io/#about](https://automation-manualtesting-rp.github.io/#about)
+- 🌐 Website: 
 - 💼 Resume: [LinkedIn](https://linkedin.com/in/)
 
 ---
